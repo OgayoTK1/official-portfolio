@@ -34,16 +34,13 @@ A Python-based system that calculates overall GPA and tracks grades for universi
 ## 🚀 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/OgayoTK1/portfolio.git
+   git clone https://github.com/OgayoTK1/official-ortfolio.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd portfolio
+   cd official-portfolio
    ```
 3. Open `index.html` in your browser.
-
-## 🌐 Live Demo
-Check out the live version: **[ogayo.tech](https://ogayo.tech)**
 
 ## 📬 Contact
 - **Email:** [aterogayo@gmail.com](mailto:aterogayo@gmail.com)
